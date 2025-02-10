@@ -7,7 +7,7 @@
 
 📌 Dataset Name: nifty_quarterly_results
 
-Summary
+ # Summary
 The financial performance analysis of companies based on their revenue, expenses, profitability, and earnings per share (EPS) provides key insights into industry trends and efficiency. Total revenue and net profit indicate a company’s market strength, while operating profit and margins highlight cost efficiency and profitability. The analysis includes crucial metrics such as operating expenses, tax impact, and trailing twelve months (TTM) profit to evaluate long-term financial stability.
 Sectors with higher operating profit margins demonstrate better cost control, whereas industries with high operating expenses may struggle with profitability. EPS and EPS_TTM trends show a company’s ability to generate earnings for shareholders, making them essential indicators for investors. The effect of tax on profit before tax and net profit helps assess how taxation policies impact earnings.
 Visualizing this data in Power BI through KPIs, bar charts, pie charts, and trend lines enables a better understanding of financial patterns and industry performance 
