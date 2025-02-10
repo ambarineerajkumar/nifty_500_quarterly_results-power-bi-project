@@ -33,7 +33,7 @@ Objective
 
 Sum of profit sector  = 1.28M
 
-Total Operating Profit = 710.1
+Total Operating Profit = 710.1 K 
 
 Sum of revenue and tax = 3.78M
 
