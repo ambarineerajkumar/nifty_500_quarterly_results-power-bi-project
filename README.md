@@ -12,7 +12,7 @@ The financial performance analysis of companies based on their revenue, expenses
 Sectors with higher operating profit margins demonstrate better cost control, whereas industries with high operating expenses may struggle with profitability. EPS and EPS_TTM trends show a company’s ability to generate earnings for shareholders, making them essential indicators for investors. The effect of tax on profit before tax and net profit helps assess how taxation policies impact earnings.
 Visualizing this data in Power BI through KPIs, bar charts, pie charts, and trend lines enables a better understanding of financial patterns and industry performance 
 
-Objective
+ # Objective
 
 High-Performing Sectors: Identify industries with the highest revenue & profit margins.
 
