@@ -1,4 +1,4 @@
-# nifty_500_quarterly_results-power-bi-project 
+# nifty_500_quarterly_results-power-bi-projects
 
 
 # Project overview
