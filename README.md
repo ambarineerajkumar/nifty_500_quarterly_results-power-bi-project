@@ -25,19 +25,20 @@ Visualizing this data in Power BI through KPIs, bar charts, pie charts, and tren
 Tax Effect: How tax influences profit_before_tax vs. net_profit.
 
 # dashboard image 
-![POWER BI SCREEN ](https://github.com/user-attachments/assets/02e222f7-e8c0-49f9-91d5-3d1bf06a2d57)
+![Screenshot 2025-05-05 123313](https://github.com/user-attachments/assets/27647d65-6fec-475c-a8ec-a90f482377c5)
+
 
 
 # Report Visuals
  
 
-Sum of profit sector  = 1.28M
+1. Total Revenue : 3.78M
 
-Total Operating Profit = 710.1 K 
+2.  Average Net Profit  : 671.1K
 
-Sum of revenue and tax = 3.78M
+3.  Highest EPS : 1.38K
 
-Operating Profit expense =2.74M
+4.  Average Operating Margin : 0.22K
 
 # Conclusion
 The report highlights that profitability varies across sectors, with some industries demonstrating strong revenue growth while others struggle with expenses. Companies with higher operating profit margins and consistent EPS growth show better financial health. Taxation and expenses play a crucial role in determining net profit, making cost management strategies vital for long-term success.
